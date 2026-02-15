@@ -1,2 +1,2 @@
-hello, world!
-Aashish Is a Good Man
+print("hello, world!")
+print("Aashish Is a Good Man")
