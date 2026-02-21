@@ -7,6 +7,6 @@ echo "Press Y or N"
 read user_input
  
 if [ "$user_input" = "Y" ]; then
-	shutdown -r +1
+	sudo shutdown -r +1
 fi
 
